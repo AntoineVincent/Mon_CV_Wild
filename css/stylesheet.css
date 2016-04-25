@@ -1,0 +1,82 @@
+body {
+	background-color: rgb(104,187,285);
+}
+#header{
+	margin-top: 20px;
+	border: dashed white 1px;
+	border-radius: 5px;
+}
+h1 {
+	text-align: center;
+	color: white;
+}
+#left-box {
+	float:left;
+	background-color: rgb(9,30,45);
+	border: dashed white 1px;
+	border-radius: 5px;
+	width: 250px;
+}
+#right-box {
+	margin-top: 10px;
+	background-color: rgb(9,30,45);
+	border: dashed white 1px;
+	border-radius: 5px;
+	margin-left: 260px;
+}
+img {
+	width: 200px;
+	padding-left: 25px;
+	padding-top: 10px;
+}
+.presente {
+	color: white;
+	text-align: center;
+}
+h4{
+	text-align: center;
+	color: white;
+	text-decoration: underline;
+}
+li {
+	color: white;
+}
+ul {
+	padding-right: 15px;
+}
+#experiences-box{
+	background-color: white;
+	border: dashed black 1px;
+	margin: 10px;
+}
+#studies-box  {
+ 	background-color: white;
+ 	border: dashed black 1px;
+ 	margin: 10px;
+ }
+ h2 {
+ 	text-decoration: underline;
+ 	text-align: center;
+ }
+.study > p {
+	padding-left: 35px;
+}
+h3 {
+	padding-left: 20px;
+}
+.study, .experience {
+	background-color: rgb(104,187,285);
+	margin:10px;
+	border: dashed white 1px;
+}
+.experience > p {
+	padding-left: 35px;
+}
+#footer {
+	background-color: white;
+	border: dashed black 1px;
+	margin-top: 40px;
+}
+.tre{
+	padding-left: 10px;
+}
